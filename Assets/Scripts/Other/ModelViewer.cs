@@ -16,6 +16,8 @@ namespace Other
 
         [SerializeField] private bool isScalable;
         [SerializeField] private GameObject canvas;
+                [SerializeField] private GameObject VerticalScalable;
+                        [SerializeField] private GameObject HorizontalScalable;
         [SerializeField] private GameObject scalableEditor;
         [SerializeField] private List<string> scalables;
         [SerializeField] private List<Toggle> group;
@@ -69,7 +71,16 @@ namespace Other
                 scalableTextureTile = visual.GetComponentInChildren<ScalableTextureTile>();
             
                 if(verticalMovement.vert)
+                {
+
                     scalableTextureTile.transform.parent.DOLocalRotate(new Vector3(0,90,0), 1);
+                     HorizontalScalable.SetActive(false);
+                      VerticalScalable.SetActive(true);
+                }
+                else{
+                     VerticalScalable.SetActive(false);
+                    HorizontalScalable.SetActive(true);
+                }
             }
         
 

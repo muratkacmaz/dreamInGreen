@@ -141,7 +141,7 @@ Transform:
   m_GameObject: {fileID: 6284434341287834877}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0}
-  m_LocalScale: {x: 0.3119211, y: 0.3119211, z: 0.3119211}
+  m_LocalScale: {x: 0.2955641, y: 0.2955641, z: 0.2955641}
   m_Children:
   - {fileID: 2147007152962833445}
   - {fileID: 6780348559395156983}
@@ -469,6 +469,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   placement: {fileID: 5436109778610036478}
   align: 1
+  plfzen: 0
 --- !u!1001 &9145091150246718851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -582,3 +583,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   placement: {fileID: 5436109778610036478}
   align: 0
+  plfzen: 0
