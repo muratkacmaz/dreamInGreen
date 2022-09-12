@@ -1,0 +1,1344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4406874013849230364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7603533831925242848}
+  m_Layer: 0
+  m_Name: tablos_prefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7603533831925242848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4406874013849230364}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7860372761123144273}
+  - {fileID: 7860372761594658113}
+  - {fileID: 7860372760945569857}
+  - {fileID: 7860372760194232718}
+  - {fileID: 7860372760891071206}
+  - {fileID: 7860372761512389538}
+  - {fileID: 7860372760601958789}
+  - {fileID: 7860372760987898336}
+  - {fileID: 7860372759996403325}
+  - {fileID: 7860372761391838476}
+  - {fileID: 7860372761464506869}
+  - {fileID: 7860372760179725425}
+  - {fileID: 7860372760336644478}
+  - {fileID: 7860372759772322381}
+  - {fileID: 7860372761519823657}
+  - {fileID: 7860372761110218082}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7682892595189258922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0032892758
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8104817636093588443, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 11873458a1c5a1245a3810fe0be27a5d, type: 2}
+    - target: {fileID: -7588280167170459940, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7452040004503685692, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 11873458a1c5a1245a3810fe0be27a5d, type: 2}
+    - target: {fileID: -3210761042477224701, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 11873458a1c5a1245a3810fe0be27a5d, type: 2}
+    - target: {fileID: -2762424234311700721, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.60898
+      objectReference: {fileID: 0}
+    - target: {fileID: -2762424234311700721, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0085
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_350x350mm_black
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6003948183073309646, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+--- !u!4 &7860372761594658113 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2b09a4016a73f214fa6aaa73db651bef, type: 3}
+  m_PrefabInstance: {fileID: 7682892595189258922}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595230866626
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.00704444
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7085513076668634060, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f2721d62e0bb288408fd546e27fe0d16, type: 2}
+    - target: {fileID: -3210761042477224701, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f2721d62e0bb288408fd546e27fe0d16, type: 2}
+    - target: {fileID: 919132149155446097, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Mixmoos_550x550mm_white
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+--- !u!4 &7860372761519823657 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e42e3c52a5c014b448f7bfa1da36f492, type: 3}
+  m_PrefabInstance: {fileID: 7682892595230866626}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595238227017
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.008880457
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5000578640374978938, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f43a899d63a1ab94e9893f4e9eb868ec, type: 2}
+    - target: {fileID: -3210761042477224701, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f43a899d63a1ab94e9893f4e9eb868ec, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_600x300mm_white
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+--- !u!4 &7860372761512389538 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4d8ae8a22e249c6458bcc7b8fd965695, type: 3}
+  m_PrefabInstance: {fileID: 7682892595238227017}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595319729694
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.005958575
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3210761042477224701, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fb81956e4c059a546bbb21aa3151a8d5, type: 2}
+    - target: {fileID: -2427122783921374549, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fb81956e4c059a546bbb21aa3151a8d5, type: 2}
+    - target: {fileID: 919132149155446097, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_1400x400mm_black
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+--- !u!4 &7860372761464506869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9e1d3862a7299ca4d8ec895ada834385, type: 3}
+  m_PrefabInstance: {fileID: 7682892595319729694}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595367236327
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0086473385
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3210761042477224701, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a3ec00f60a3a2794baf6ca65d7839954, type: 2}
+    - target: {fileID: 919132149155446097, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_1000x600mm_white
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111523663255118563, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a3ec00f60a3a2794baf6ca65d7839954, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+--- !u!4 &7860372761391838476 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: cb6f35f9a1fb15849811db868402df27, type: 3}
+  m_PrefabInstance: {fileID: 7682892595367236327}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595635922362
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8769451419395846107, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.72005
+      objectReference: {fileID: 0}
+    - target: {fileID: -8769451419395846107, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0037
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0031478475
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5618427151429999084, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3210761042477224701, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dee4727784d2c4c408e5b35a8ff35a3c, type: 2}
+    - target: {fileID: 146135717720512888, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dee4727784d2c4c408e5b35a8ff35a3c, type: 2}
+    - target: {fileID: 919132149155446097, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_Name
+      value: "Moosbild_Hugelmoos_rund_600mm_white_20yar\u0131cap"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612502098179055677, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dee4727784d2c4c408e5b35a8ff35a3c, type: 2}
+    - target: {fileID: 6958490034345908159, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+--- !u!4 &7860372761123144273 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 84b362049c9a41c49924aa0acc07827e, type: 3}
+  m_PrefabInstance: {fileID: 7682892595635922362}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595640197769
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0035726987
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3874952550860994925, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_Name
+      value: moss
+      objectReference: {fileID: 0}
+    - target: {fileID: -3874952550860994925, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3210761042477224701, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f841673599109a4b931b28f1915f8bf, type: 2}
+    - target: {fileID: -689525668864676363, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.71787
+      objectReference: {fileID: 0}
+    - target: {fileID: -689525668864676363, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0058
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_Name
+      value: "Moosbild_Mixmoos_rund_800mm_white_25yar\u0131cap"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7241070306511053753, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f841673599109a4b931b28f1915f8bf, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+--- !u!4 &7860372761110218082 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4b43e0c5c595e26429e8f84804050c04, type: 3}
+  m_PrefabInstance: {fileID: 7682892595640197769}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595771110923
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.006259024
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4983060386612828555, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1cf5ea346159c23448bf1dadadf6ab5d, type: 2}
+    - target: {fileID: -3210761042477224701, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1cf5ea346159c23448bf1dadadf6ab5d, type: 2}
+    - target: {fileID: 919132149155446097, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_800x800mm_white
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+--- !u!4 &7860372760987898336 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: fe7ec5713a58cad448568716d511a458, type: 3}
+  m_PrefabInstance: {fileID: 7682892595771110923}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595813177258
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0011699642
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7452040004503685692, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8420c8cf51e83bb4db4d2e1a9ec1d037, type: 2}
+    - target: {fileID: -3210761042477224701, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8420c8cf51e83bb4db4d2e1a9ec1d037, type: 2}
+    - target: {fileID: 919132149155446097, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_350x350mm_white
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+--- !u!4 &7860372760945569857 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 7114255b0543c4345aa7dc615625a2bb, type: 3}
+  m_PrefabInstance: {fileID: 7682892595813177258}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892595892911373
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0040376047
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5000578640374978938, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d8a419a5aabf3764ab64d64cb875762e, type: 2}
+    - target: {fileID: -3210761042477224701, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d8a419a5aabf3764ab64d64cb875762e, type: 2}
+    - target: {fileID: 919132149155446097, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_600x300mm_black
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+--- !u!4 &7860372760891071206 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 161edca09533b7946934cd13ed21449d, type: 3}
+  m_PrefabInstance: {fileID: 7682892595892911373}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892596190609006
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0031801139
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4983060386612828555, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f8667ae0e4299624aa02befc135aaaff, type: 2}
+    - target: {fileID: -3210761042477224701, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f8667ae0e4299624aa02befc135aaaff, type: 2}
+    - target: {fileID: 919132149155446097, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_800x800mm_black
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+--- !u!4 &7860372760601958789 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: d2a2adf448c368547bd178eea570491a, type: 3}
+  m_PrefabInstance: {fileID: 7682892596190609006}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892596413783701
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0012465679
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3210761042477224701, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42b72aa3ea0d60e4296765b6192c8905, type: 2}
+    - target: {fileID: 919132149155446097, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_Name
+      value: "Moosbild_Hugelmoos_rund_600mm_black_20yar\u0131cap"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8604152323026712945, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42b72aa3ea0d60e4296765b6192c8905, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+--- !u!4 &7860372760336644478 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3ecde77275526684b82de8a071bc85da, type: 3}
+  m_PrefabInstance: {fileID: 7682892596413783701}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892596570895258
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0068664644
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3210761042477224701, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 644edda431c858c49aaee685f2f1a390, type: 2}
+    - target: {fileID: -2427122783921374549, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 644edda431c858c49aaee685f2f1a390, type: 2}
+    - target: {fileID: 919132149155446097, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_1400x400mm_white
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+--- !u!4 &7860372760179725425 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9134e153841959941a16c1b2fa51eaf6, type: 3}
+  m_PrefabInstance: {fileID: 7682892596570895258}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892596589745765
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0034860866
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7085513076668634060, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f8d0333459777fe41a45962748b7e720, type: 2}
+    - target: {fileID: -3210761042477224701, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f8d0333459777fe41a45962748b7e720, type: 2}
+    - target: {fileID: 919132149155446097, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_550x550mm_black
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e5351d506e93472439178d0c315c732b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5351d506e93472439178d0c315c732b, type: 3}
+--- !u!4 &7860372760194232718 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e5351d506e93472439178d0c315c732b, type: 3}
+  m_PrefabInstance: {fileID: 7682892596589745765}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892596787767702
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.009725263
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7588280167170459940, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5980950069559980933, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f6b23b4d30e82c845a6ae4d1750d32b2, type: 2}
+    - target: {fileID: -3210761042477224701, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f6b23b4d30e82c845a6ae4d1750d32b2, type: 2}
+    - target: {fileID: 919132149155446097, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_Name
+      value: Moosbild_Hugelmoos_1000x600mm_black
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+--- !u!4 &7860372759996403325 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0fb5d52c029824d46838bf874c81be1a, type: 3}
+  m_PrefabInstance: {fileID: 7682892596787767702}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7682892596986756518
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7603533831925242848}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00054883957
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -36484022523906990, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a4fb44cca397c4479265c1f0162475a, type: 2}
+    - target: {fileID: 919132149155446097, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_Name
+      value: "Moosbild_Mixmoos_rund_800mm_black_25yar\u0131cap"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6680168570807908841, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838399003817553920, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a4fb44cca397c4479265c1f0162475a, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+--- !u!4 &7860372759772322381 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
+  m_PrefabInstance: {fileID: 7682892596986756518}
+  m_PrefabAsset: {fileID: 0}
