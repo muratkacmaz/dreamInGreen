@@ -87,7 +87,7 @@ public class ARPlacementInteractableSingle : ARBaseGestureInteractable
             var placementObject =
                 Instantiate(mPlacementPrefab, indicatorEffect.transform.position, indicatorEffect.transform.rotation).GetComponent<ModelViewer>().SetIndex(ShopManager.GetCurrentModelIndex());
 
-            isVerticalPlane = indicatorEffect.transform.up.y < 1;
+            isVerticalPlane = indicatorEffect.transform.up.y < 0.9f;
             
             if (isVerticalPlane)
             {
