@@ -11,7 +11,7 @@ public class ShopManager : MonoBehaviour
     [SerializeField] private GameObject shopLayout;
 
     private ARPlacementInteractableSingle _placementManager;
-    
+
     private static string _shopItemIndex;
     private bool _isShopOpen;
 
@@ -20,6 +20,11 @@ public class ShopManager : MonoBehaviour
         _placementManager = FindObjectOfType<ARPlacementInteractableSingle>();
     }
 
+
+    //ios test
+
+    
+
     public void OpenInpectPanel(GameObject ob)
     {
         if (ob.activeSelf)
@@ -27,7 +32,7 @@ public class ShopManager : MonoBehaviour
             ob.SetActive(false);
             return;
         }
-        
+
         CloseInspectPanels();
 
         ob.SetActive(true);
@@ -36,7 +41,7 @@ public class ShopManager : MonoBehaviour
     public void SetModelAndPlace(string key)
     {
         ProductButton();
-        
+
         _shopItemIndex = key;
         _placementManager.SetPlaceMode(true);
     }
@@ -50,8 +55,8 @@ public class ShopManager : MonoBehaviour
     {
         _isShopOpen = !_isShopOpen;
         shopLayout.SetActive(_isShopOpen);
-        
-        if(!_isShopOpen)
+
+        if (!_isShopOpen)
             CloseInspectPanels();
     }
 
