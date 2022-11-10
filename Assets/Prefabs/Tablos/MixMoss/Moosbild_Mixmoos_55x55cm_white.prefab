@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1206824459988798427}
   - component: {fileID: 4153534132961088773}
   m_Layer: 0
-  m_Name: Moosbild_Mixmoos_50x50cm_white
+  m_Name: Moosbild_Mixmoos_55x55cm_white
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

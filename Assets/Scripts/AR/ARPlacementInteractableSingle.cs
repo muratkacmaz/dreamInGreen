@@ -12,6 +12,7 @@ using UnityEngine.XR.ARSubsystems;
 public class ARPlacementInteractableSingle : ARBaseGestureInteractable
 {
     public bool EditorMode;
+    public static ARPlacementInteractableSingle instace;
     public static Action OnObjectPlaced;
 
     [SerializeField] private float placementScreenOffsetX = .5f;
@@ -41,6 +42,7 @@ public class ARPlacementInteractableSingle : ARBaseGestureInteractable
     protected override void Awake()
     {
         base.Awake();
+        instace = this;
         raycastManager = FindObjectOfType<ARRaycastManager>();
         planeManager = FindObjectOfType<ARPlaneManager>();
         arCam = Camera.main;

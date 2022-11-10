@@ -10,7 +10,7 @@ namespace GridSystem
         [SerializeField] private bool plfzen = false;
 
         private void OnMouseUpAsButton() {
-            FindObjectOfType<ARPlacementInteractableSingle>().SetSnappable(placement.transform, placement.GetOffSet(), align, plfzen);
+            ARPlacementInteractableSingle.instace.SetSnappable(placement.transform, placement.GetOffSet(), align, plfzen);
         }
     }
 }
