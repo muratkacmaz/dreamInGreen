@@ -24,7 +24,8 @@ public class ARPlacementInteractableSingle : ARBaseGestureInteractable
     [SerializeField] private GameObject indicatorEffect;
     [SerializeField] private GameObject placeButton;
     [SerializeField] private GameObject photoShootButton;
-    [SerializeField] private GameObject multiplyPanel;
+    [SerializeField] private GameObject multiplyPanelRaumtyailer;
+    [SerializeField] private GameObject multiplyPanelPlfzen;
 
 
     private Camera arCam;
@@ -210,7 +211,8 @@ public class ARPlacementInteractableSingle : ARBaseGestureInteractable
         
     public void CreateSnappedObject()
     {
-        OpenMultiplyPanel(false);
+        OpenMultiplyPanelRaum(false);
+        OpenMultiplyPanelRaum(false);
 
         var parOb = snapObject.parent.parent;
 
@@ -239,18 +241,27 @@ public class ARPlacementInteractableSingle : ARBaseGestureInteractable
 
         if(plfzen)
         {
-            DirectInstantiateWithKey("Pflanzen-Raumteiler");
+            OpenMultiplyPanelPlfzen(true);
+            OpenMultiplyPanelRaum(false);
         }
         else
         {
-            OpenMultiplyPanel(true);
+            OpenMultiplyPanelRaum(true);
+            OpenMultiplyPanelPlfzen(false);
         }
     }
     
-    public void OpenMultiplyPanel(bool val)
+    public void OpenMultiplyPanelRaum(bool val)
     {
-        multiplyPanel.SetActive(val);
+        multiplyPanelRaumtyailer.SetActive(val);
     }
+    
+    public void OpenMultiplyPanelPlfzen(bool val)
+    {
+        multiplyPanelPlfzen.SetActive(val);
+    }
+    
+    
 
     #endregion
 }
