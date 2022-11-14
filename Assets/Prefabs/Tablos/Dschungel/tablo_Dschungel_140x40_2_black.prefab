@@ -141,7 +141,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2ee9ee409eef1bd42aeee8ac5eff7dde, type: 2}
+  - {fileID: -2819999836025732869, guid: a9d75f415f8792a439f0ab0568dba3b1, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -232,7 +232,7 @@ GameObject:
   - component: {fileID: 4371071041646880608}
   - component: {fileID: 4327329558893845679}
   m_Layer: 0
-  m_Name: tablo_Dschungel_40x140_2
+  m_Name: tablo_Dschungel_140x40_2_black
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -264,7 +264,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.4, y: 0.07502707, z: 1.38}
+  m_Size: {x: 1.3928436, y: 0.07502707, z: 0.40205377}
   m_Center: {x: 0.016275875, y: 0, z: 0}
 --- !u!1 &6727897789132443053
 GameObject:
@@ -370,8 +370,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8904898240005343847}
-  m_LocalRotation: {x: -0.4956177, y: 0.4956177, z: -0.5043442, w: 0.5043442}
-  m_LocalPosition: {x: 0.01963554, y: 0, z: 0.00000030517577}
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 453631529755488120}
@@ -379,4 +379,4 @@ Transform:
   - {fileID: 4355858174448378713}
   m_Father: {fileID: 4371071041646880608}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 89, z: -90}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}

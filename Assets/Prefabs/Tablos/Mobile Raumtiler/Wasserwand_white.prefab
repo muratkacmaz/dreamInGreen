@@ -606,7 +606,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5421b065a57aae4585a4d3352f6d3e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset: 0.4246031
+  offset: 0.4011467
   multipers: {fileID: 3434034397931384875}
 --- !u!1001 &2165811602399560516
 PrefabInstance:
@@ -702,7 +702,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1489708808463243247}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.52493566, y: 0.52493596, z: 0.10905644}
@@ -816,7 +816,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6596266727356290953}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.52493566, y: 0.52493596, z: 0.10905644}
